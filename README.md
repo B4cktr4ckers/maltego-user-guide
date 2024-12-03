@@ -1,4 +1,4 @@
-# Maltego for Malware Analysis: A Beginner's Guide
+# Maltego for Malware Analysis: Beginner's Guide
 Want to know how maltego works to help you with your next assignment? <br>
 You don't know the software? <br>
 Did you get lost on github? <br>
@@ -96,7 +96,16 @@ Maltego’s graph-based interface makes it ideal for:
 - Document findings for reporting or further investigation.
 
 > [!WARNING]
-> Of course, don't use these techniques for bad intentioned purposes.
+> Of course, don't use these techniques for bad intentioned purposes. <br>
+
+
+> [!NOTE]
+> If you are lost I will summarize it all a little more simply. <br>
+> Maltego generates a cork board for you <br>
+> You will be able to put post it notes of different types (people, building, computer, etc.) <br>
+> You can write details inside this note <br>
+> And then by putting several together you can connect them with a red woolen thread (like in old detective films) <br>
+> It is then up to you, using your evidence, to make your comparisons and deductions. <br>
 
 ---
 
