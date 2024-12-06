@@ -59,6 +59,11 @@ Exemple of a map for a murder case.
    - **Shodan** (for IP and domain scans).
    - **AbuseIPDB** (for malicious IP lookups).
    - **PassiveTotal** (for domain WHOIS and DNS information).
+
+  
+<img src="recources/transforms.png" width="800">
+It's like apple store, but for maltego plug-in.
+
    
 ---
 
