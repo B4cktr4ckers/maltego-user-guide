@@ -15,7 +15,7 @@ This guide is made for you <br>
 
 
 ---
-<img src="recources/first_screen.png" width="500">
+<img src="recources/first_screen.png" width="800">
 
 ## Introduction
 Maltego is a powerful open-source intelligence (OSINT) and data visualization tool (It's a bit like a mental map that we do at school, but for OSINT). <br>
@@ -34,6 +34,9 @@ Maltego’s graph-based interface makes it ideal for:
 > [!NOTE]
 > If we summarize, we can have a white board, with all our information and our proofs, to see more clearly and have better reasoning. <br>
 > Putting all the data in one place by organizing it can make us realize things and help us find new reasoning or new avenues of investigation. <br>
+
+<img src="recources/Affaire_Commenary.png" width="800">
+Exemple of a map for a murder case.
 
 ---
 
