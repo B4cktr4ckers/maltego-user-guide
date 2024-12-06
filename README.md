@@ -6,7 +6,7 @@ This guide is made for you <br>
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Maltego?](#maltego?)
+2. [Why Maltego](#why-maltego)
 3. [Why Use Maltego for Malware Analysis?](#why-use-maltego-for-malware-analysis)
 4. [Setting Up Maltego](#setting-up-maltego)
 5. [Key Features of Maltego for Malware Analysis](#key-features-of-maltego-for-malware-analysis)
@@ -26,7 +26,7 @@ This guide provides a step-by-step approach to using Maltego for malware analysi
 
 ---
 
-## Maltego ?
+## Why Maltego ?
 To complete what was said above, and to summarize and give concrete examples. <br>
 Maltego is the equivalent of the cork board with all the evidence from the old detective series <br>
 (The famous cork board with red threads connecting all the evidence together) <br>
