@@ -79,18 +79,11 @@ Exemple of a map for a murder case.
 1. Drag the "Domain" entity onto the graph.
 2. Enter the suspected malicious domain (e.g., `example-malware.com`).
 
-### Step 2: Run Transforms
-1. Right-click the domain entity and run the following transforms:
-   - **Resolve to IP**: Maps the domain to its IP address.
-   - **Passive DNS Lookup**: Retrieves historical DNS data.
-   - **WHOIS Lookup**: Gets ownership details of the domain.
-   - **Check Reputation** (VirusTotal/AbuseIPDB): Analyzes the domain's reputation.
-
-### Step 3: Expand the Investigation
+### Step 2: Expand the Investigation
 - Explore connected entities (e.g., hosting IP, subdomains).
 - Run transforms on new entities to identify additional IOCs.
 
-### Step 4: Analyze Results
+### Step 3: Analyze Results
 - Look for patterns such as shared infrastructure or reused domains/IPs.
 - Document findings for reporting or further investigation.
 
