@@ -6,12 +6,13 @@ This guide is made for you <br>
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Why Use Maltego for Malware Analysis?](#why-use-maltego-for-malware-analysis)
-3. [Setting Up Maltego](#setting-up-maltego)
-4. [Key Features of Maltego for Malware Analysis](#key-features-of-maltego-for-malware-analysis)
-5. [Practical Example: Analyzing a Malicious Domain](#practical-example-analyzing-a-malicious-domain)
-6. [Tips and Best Practices](#tips-and-best-practices)
-7. [Additional Resources](#additional-resources)
+2. [Maltego?](#maltego)
+3. [Why Use Maltego for Malware Analysis?](#why-use-maltego-for-malware-analysis)
+4. [Setting Up Maltego](#setting-up-maltego)
+5. [Key Features of Maltego for Malware Analysis](#key-features-of-maltego-for-malware-analysis)
+6. [Practical Example: Analyzing a Malicious Domain](#practical-example-analyzing-a-malicious-domain)
+7. [Tips and Best Practices](#tips-and-best-practices)
+8. [Additional Resources](#additional-resources)
 
 
 ---
@@ -24,6 +25,29 @@ Like mental maps, this system allows you to have a quick visual of all the data 
 This guide provides a step-by-step approach to using Maltego for malware analysis, from basic setup to performing an investigation. <br>
 
 ---
+
+## Maltego ?
+To complete what was said above, and to summarize and give concrete examples. <br>
+Maltego is the equivalent of the cork board with all the evidence from the old detective series <br>
+(The famous cork board with red threads connecting all the evidence together) <br>
+It is a visual way of collecting clues about a specific situation.
+<br>
+Some usage of Maltego is :
+- Tracking Criminals: View connections between email addresses, phones, and online profiles to identify suspects or organized groups.
+- Fraud analysis: Examine financial transfers, fake accounts or fictitious organizations.
+- Cyberattack tracking: Identify where an attack is coming from by connecting digital clues (like IP addresses and servers).
+- Investigative Research: Collect and organize information for investigative reporting (e.g. Pandora Papers).
+- Finding information about individuals: Find email addresses, social media profiles, phone numbers, or associations with organizations. <br>
+
+Some famous exemples :
+- During investigations into malicious infrastructure linked to attacks like Emotet, Maltego has been used to map associated domains, servers and IP addresses, allowing the location of command and control (C&C) servers.
+- Maltego has been included in investigations by Interpol and other agencies to detect terrorist organizations' financing networks or their online communications.
+- Journalists investigating the misuse of Pegasus spyware (by governments to target journalists, activists, and politicians) used Maltego to visualize and understand the connections between targeted phone numbers and the organizations involved.
+<br>
+Maltego is also used by police force worldwide : <br>
+- Interpol <br>
+- Cyber Police (Ukraine) <br>
+- Federal Bureau of Investigations <br>
 
 ## Why Use Maltego for Malware Analysis?
 Maltego’s graph-based interface makes it ideal for:
