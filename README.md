@@ -13,7 +13,9 @@ This guide is made for you <br>
 6. [Tips and Best Practices](#tips-and-best-practices)
 7. [Additional Resources](#additional-resources)
 
+
 ---
+<img src="recources/first_screen.png" width="500">
 
 ## Introduction
 Maltego is a powerful open-source intelligence (OSINT) and data visualization tool (It's a bit like a mental map that we do at school, but for OSINT). <br>
