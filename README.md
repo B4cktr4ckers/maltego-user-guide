@@ -6,7 +6,7 @@ This guide is made for you <br>
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Maltego?](#maltego)
+2. [Maltego?](#maltego?)
 3. [Why Use Maltego for Malware Analysis?](#why-use-maltego-for-malware-analysis)
 4. [Setting Up Maltego](#setting-up-maltego)
 5. [Key Features of Maltego for Malware Analysis](#key-features-of-maltego-for-malware-analysis)
