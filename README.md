@@ -55,10 +55,6 @@ Maltego’s graph-based interface makes it ideal for:
 - **Mapping relationships** between malware indicators (IOCs).
 - **Connecting OSINT data** to malware samples for deeper analysis. <br>
 
-> [!NOTE]
-> If we summarize, we can have a white board, with all our information and our proofs, to see more clearly and have better reasoning. <br>
-> Putting all the data in one place by organizing it can make us realize things and help us find new reasoning or new avenues of investigation. <br>
-
 <img src="recources/Affaire_Commenary.png" width="800">
 Exemple of a map for a murder case.
 
@@ -74,8 +70,8 @@ Exemple of a map for a murder case.
 > For Linux users, I encourage you to search directly on the internet for "how to install maltego" accompanied by your distribution
 
 ### Step 2: Create an Account
-1. Launch Maltego and sign up for a free license (community edition).
-2. Log in to the Maltego client.
+1. Launch Maltego and sign up for a free license (community edition, the only one you can use at least u wana pay 8k).
+2. Log in to the Maltego client (just follow the instructions).
 3. You are ready to go !
    
 ---
@@ -113,7 +109,6 @@ Exemple of a map for a murder case.
 
 > [!WARNING]
 > Of course, don't use these techniques for bad intentioned purposes. <br>
-
 
 > [!NOTE]
 > If you are lost I will summarize it all a little more simply. <br>
