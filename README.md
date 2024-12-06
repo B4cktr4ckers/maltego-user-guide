@@ -52,18 +52,7 @@ Exemple of a map for a murder case.
 ### Step 2: Create an Account
 1. Launch Maltego and sign up for a free license (community edition).
 2. Log in to the Maltego client.
-
-### Step 3: Configure Transforms
-1. Install the required transforms for malware analysis:
-   - **VirusTotal** (requires an API key).
-   - **Shodan** (for IP and domain scans).
-   - **AbuseIPDB** (for malicious IP lookups).
-   - **PassiveTotal** (for domain WHOIS and DNS information).
-
-  
-<img src="recources/transforms.png" width="800">
-It's like apple store, but for maltego plug-in.
-
+3. You are ready to go !
    
 ---
 
