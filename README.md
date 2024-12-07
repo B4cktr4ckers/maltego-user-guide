@@ -65,14 +65,14 @@ Exemple of a map for a murder case 🗡️.
 
 ## Setting Up Maltego
 
-### Step 1: Install Maltego
+### Step 1: 🔃 Install Maltego 🔃
 1. Download Maltego from [Maltego's official website](https://www.maltego.com/).
 2. Install the appropriate version for your OS (Windows, macOS, or Linux).
    
 > [!TIP]
 > For Linux users, I encourage you to search directly on the internet for "how to install maltego" accompanied by your distribution
 
-### Step 2: Create an Account
+### Step 2: 📝 Create an Account 📝
 1. Launch Maltego and sign up for a free license (community edition, the only one you can use at least u wana pay 8k).
 2. Log in to the Maltego client (just follow the instructions).
 3. You are ready to go !
