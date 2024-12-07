@@ -1,27 +1,26 @@
-# 📖💻 Maltego : Beginner's Guide 💻📖
-Want to know how maltego works to help you with your next assignment? <br>
-You don't know the software? <br>
-Did you get lost on github? <br>
-This guide is made for you <br>
+# 📖💻 Maltego: The Ultimate Detective's Guide 💻📖
+Ever wondered how to become a digital Sherlock Holmes? 🕵️‍♂️🔍 <br>
+Curious about how Maltego can be your trusty magnifying glass in the world of data? <br>
+Lost in the vast sea of GitHub repositories? 🌊 <br>
+Fear not, this guide is your treasure map to mastering Maltego! 🗺️🏴‍☠️ <br>
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Why Maltego](#why-maltego)
-3. [Why Use Maltego for Malware Analysis?](#why-use-maltego-for-malware-analysis)
+2. [Why Maltego](#why-maltego-)
+3. [Why Use Maltego for Malware Analysis?](#why-use-maltego-for-malware-analysis-)
 4. [Setting Up Maltego](#setting-up-maltego)
 5. [Key Features of Maltego for Malware Analysis](#key-features-of-maltego-for-malware-analysis)
-6. [Practical Example: Analyzing a Malicious Domain](#practical-example-analyzing-a-malicious-domain)
+6. [Practical Example: Analyzing a Malicious Domain](#practical-example-joseph-murder-case-)
 7. [Tips and Best Practices](#tips-and-best-practices)
 8. [Additional Resources](#additional-resources)
-
 ---
 <img src="recources/first_screen.png" width="800">
 
 ## Introduction
-Maltego is a powerful open-source intelligence (OSINT) and data visualization tool (It's a bit like a mental map that we do at school, but for OSINT). <br>
-It helps cybersecurity professionals connect the dots by visualizing relationships between data points, such as IPs, domains, files, and even malware samples. <br>
-Like mental maps 🧠, this system allows you to have a quick visual of all the data available. <br>
-This guide provides a step-by-step approach to how using Maltego and why it's a good software for malware analysis. <br>
+Maltego is a powerful open-source intelligence (OSINT) and data visualization tool. Think of it as a digital version of the mental maps we used to create in school, but for OSINT. 🧠 <br>
+It helps cybersecurity professionals, police agent and so on to visualizing relationships between data points, such as IPs, domains, files, and even malware samples. <br>
+This tinny system provides a quick visual overview of all available data, making it easier to identify patterns and connections. <br>
+This guide offers a step-by-step approach to using Maltego and explains why it's an excellent tool for malware analysis. <br>
 
 ---
 
@@ -48,11 +47,16 @@ Maltego is also used by police force worldwide : <br>
 - Cyber Police 🇺🇦 <br>
 - Federal Bureau of Investigations 🇺🇸 <br>
 
-## Why Use Maltego for Malware Analysis ❓
-Maltego’s graph-based interface makes it ideal for:
-- **Investigating malware infrastructure** (domains, IP addresses, email addresses).
-- **Mapping relationships** between malware indicators (IOCs).
-- **Connecting OSINT data** to malware samples for deeper analysis. <br>
+## Why Use Maltego ❓
+Maltego is a versatile tool that can be used for various purposes, including:
+
+- **Data Visualization**: Create visual representations of complex data sets to identify patterns and relationships.
+- **Open-Source Intelligence (OSINT)**: Gather and analyze publicly available information for investigative purposes.
+- **Cybersecurity**: Track and analyze cyber threats, including malware, phishing, and other malicious activities.
+- **Investigative Research**: Collect and organize information for journalism, academic research, or legal investigations.
+- **Network Analysis**: Map and analyze network structures, including social networks, communication networks, and organizational hierarchies.
+
+Maltego’s graph-based interface makes it easy to connect the dots and uncover hidden connections in your data.
 
 <img src="recources/Affaire_Commenary.png" width="800">
 Exemple of a map for a murder case 🗡️.
@@ -80,12 +84,19 @@ Exemple of a map for a murder case 🗡️.
    
 ---
 
-## Practical Example: Joseph Murder Case :
-Working on it :)
+## Practical Example: Viviane Roberts Murder Case :
+Vivian Roberts was murdered in 1995, her body discovered outside her mansion. <br>
+The case was closed after her death was attributed to an unsolved burglary, but rumors suggest otherwise. <br>
 
-
-> [!WARNING]
-> Of course, don't use these techniques for bad intentioned purposes. <br>
+### First, put all family members on the board
+<img src="recources/MurderCase/leftbar.png" width="100"> <br>
+Using the left bar, we can search for "incident", and "pepole" <br>
+It will really be usefull for our case. <br>
+Once placed you can by clicking on the name "murdrer" of the card, you can change its name to Vivians murder. <br>
+We can do the same thing for all the cards. Let's also name the main protagonists of our story. <br>
+<img src="recources/MurderCase/step_one.png" width="300"> <br>
+By clicking several times, you can add notes inside the card. <br>
+<img src="recources/MurderCase/taking notes.png" width="300"> <br>
 
 ---
 
@@ -115,3 +126,5 @@ Working on it :)
 
 Happy investigating! ^^ <br>
 Alex <br>
+---
+B4CKTR4CKERS -- 2024
