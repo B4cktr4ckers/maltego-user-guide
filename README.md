@@ -80,36 +80,9 @@ Exemple of a map for a murder case 🗡️.
    
 ---
 
-## Key Features of Maltego for Malware Analysis
+## Practical Example: Joseph Murder Case :
+Working on it :)
 
-### 1. **Graph-Based Visualization**
-   - Visualize relationships between malware indicators (IPs, domains, hashes).
-   - Identify infrastructure shared by different malware families.
-
-### 2. **OSINT Integration**
-   - Leverage external services like VirusTotal, Shodan, and AbuseIPDB.
-
-### 3. **Custom Entities**
-   - Add custom indicators (e.g., file hashes or unique IOCs).
-
-### 4. **Collaboration**
-   - Share graphs with teammates for collaborative analysis.
-
----
-
-## Practical Example: Analyzing a Malicious Domain
-
-### Step 1: Add the Malicious Domain
-1. Drag the "Domain" entity onto the graph.
-2. Enter the suspected malicious domain (e.g., `example-malware.com`).
-
-### Step 2: Expand the Investigation
-- Explore connected entities (e.g., hosting IP, subdomains).
-- Run transforms on new entities to identify additional IOCs.
-
-### Step 3: Analyze Results 🕵️
-- Look for patterns such as shared infrastructure or reused domains/IPs.
-- Document findings for reporting or further investigation.
 
 > [!WARNING]
 > Of course, don't use these techniques for bad intentioned purposes. <br>
