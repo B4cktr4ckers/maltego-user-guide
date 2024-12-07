@@ -14,7 +14,6 @@ This guide is made for you <br>
 7. [Tips and Best Practices](#tips-and-best-practices)
 8. [Additional Resources](#additional-resources)
 
-
 ---
 <img src="recources/first_screen.png" width="800">
 
@@ -45,9 +44,9 @@ Some famous exemples :
 - Journalists investigating the misuse of Pegasus spyware (by governments to target journalists, activists, and politicians) used Maltego to visualize and understand the connections between targeted phone numbers and the organizations involved.
 <br>
 Maltego is also used by police force worldwide : <br>
-- Interpol <br>
-- Cyber Police (Ukraine) <br>
-- Federal Bureau of Investigations <br>
+- Interpol 🌍 <br>
+- Cyber Police 🇺🇦 <br>
+- Federal Bureau of Investigations 🇺🇸 <br>
 
 ## Why Use Maltego for Malware Analysis?
 Maltego’s graph-based interface makes it ideal for:
@@ -56,7 +55,7 @@ Maltego’s graph-based interface makes it ideal for:
 - **Connecting OSINT data** to malware samples for deeper analysis. <br>
 
 <img src="recources/Affaire_Commenary.png" width="800">
-Exemple of a map for a murder case.
+Exemple of a map for a murder case 🗡️.
 
 ---
 
@@ -103,7 +102,7 @@ Exemple of a map for a murder case.
 - Explore connected entities (e.g., hosting IP, subdomains).
 - Run transforms on new entities to identify additional IOCs.
 
-### Step 3: Analyze Results
+### Step 3: Analyze Results 🕵️
 - Look for patterns such as shared infrastructure or reused domains/IPs.
 - Document findings for reporting or further investigation.
 
@@ -130,12 +129,13 @@ Exemple of a map for a murder case.
 
 ## Additional Resources
 - **Official Maltego Documentation**: [Maltego Docs](https://docs.maltego.com/)
-- **Maltego Transform Hub**: Explore transforms for various use cases.
+- **Maltego Transform Hub**: Explore transforms for various use cases. (is like add-on store of vscode)
 - **VirusTotal API**: [VirusTotal](https://www.virustotal.com/)
 - **Shodan API**: [Shodan](https://www.shodan.io/)
 - **AbuseIPDB**: [AbuseIPDB](https://www.abuseipdb.com/)
 - **OSINT: Maltego Beginner Get Started Tutorial**: [Maltego4Begginers](https://www.youtube.com/watch?v=kmOIhvsklv8)
 - **Maltego - The Automated OSINT Tool for Ethical Hackers**: [Auto4begginers](https://www.youtube.com/watch?v=a2ZvpwF3u-M)
+- **Maltego - Maltego FAQ** : [Maltego-FAQ](https://www.maltego.com/maltego-faq/)
 
 > [!TIP]
 > As you learn at Epitech. Google is your friend, this guide is not yet very complete and will probably never be the best <br>
