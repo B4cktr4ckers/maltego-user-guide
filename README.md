@@ -131,7 +131,7 @@ was the one who killed Vivian, there is loot of proof <br>
 that we can see on the map. (the color lines can help to see links) <br>
 Now you can give the board to everyone, and they can see and understand the case <br>
 
-### Conclusion
+### 🎇Conclusion🎇
 This is a simple example of how Maltego can be used to visualize and analyze complex relationships between entities. <br>
 By connecting the dots and uncovering hidden connections, you can gain valuable insights and solve mysteries. <br>
 
