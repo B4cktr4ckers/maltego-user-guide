@@ -10,9 +10,10 @@ Fear not, this guide is your treasure map to mastering Maltego! 🗺️🏴‍�
 3. [Why Use Maltego for Malware Analysis?](#why-use-maltego-for-malware-analysis-)
 4. [Setting Up Maltego](#setting-up-maltego)
 5. [Key Features of Maltego for Malware Analysis](#key-features-of-maltego-for-malware-analysis)
-6. [Practical Example: Analyzing a Malicious Domain](#practical-example-joseph-murder-case-)
+6. [Practical Example: Analyzing a Malicious Domain](#practical-example-analyzing-a-malicious-domain)
 7. [Tips and Best Practices](#tips-and-best-practices)
 8. [Additional Resources](#additional-resources)
+
 ---
 <img src="recources/first_screen.png" width="800">
 
@@ -94,23 +95,23 @@ Using the left bar, we can search for "incident", and "pepole" <br>
 It will really be usefull for our case. <br>
 Once placed you can by clicking on the name "murdrer" of the card, you can change its name to Vivians murder. <br>
 We can do the same thing for all the cards. Let's also name the main protagonists of our story. <br>
-<img src="recources/MurderCase/step_one.png" width="300"> <br>
+<img src="recources/MurderCase/step_one.png" width="500"> <br>
 By clicking several times, you can add notes inside the card. <br>
-<img src="recources/MurderCase/taking notes.png" width="300"> <br>
+<img src="recources/MurderCase/taking notes.png" width="500"> <br>
 
 ### Now, lets find some links !
 If you click on a map and keep your left click pressed you can see that you are drawing an arrow, <br>
 useful for showing connections between people. You can also edit their names there <br>
-<img src="recources/MurderCase/edit_names.png" width="300"> <br>
+<img src="recources/MurderCase/edit_names.png" width="500"> <br>
 and see the result <br>
-<img src="recources/MurderCase/got_link.png" width="400"> <br>
+<img src="recources/MurderCase/got_link.png" width="500"> <br>
 
 ### Now, lets find some new clues !
 By searching the internet, we can see that the husband owns 2 businesses, let's put them on the graph! <br>
-<img src="recources/MurderCase/Compagny.png" width="400"> <br>
+<img src="recources/MurderCase/Compagny.png" width="500"> <br>
 Let's call Dectective Maellie, and Mathis <br> ! <br>
 They find new evidence in this case ! <br>
-<img src="recources/MurderCase/btc.png" width="400"> <br>
+<img src="recources/MurderCase/btc.png" width="500"> <br>
 Now we know (and we can see) that the companies are on the same bank account, <br>
 And that Charles has a BTC wallet. We also know a $ ==> BTC transfer was made <br>
 from the company accounts to Charles' personal wallet <br>
@@ -118,9 +119,9 @@ from the company accounts to Charles' personal wallet <br>
 ### What next ?
 We can now see that Charles is suspicious. <br>
 Our team can now investigate more on Charles, and the companies. <br>
-<img src="recources/MurderCase/bt2.png" width="400"> <br>
+<img src="recources/MurderCase/bt2.png" width="500"> <br>
 Now we know that Charles has been blackmailled by Scott <br>
-<img src="recources/MurderCase/notes2.png" width="400"> <br>
+<img src="recources/MurderCase/notes2.png" width="500"> <br>
 Scott know something about Charles and Vivian, <br>
 We can now investigate more on Scott, and the relation between Charles and Vivian <br>
 
