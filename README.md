@@ -7,10 +7,9 @@ This guide is your treasure map to mastering Maltego! 🗺️🏴‍☠️ <br>
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Why Maltego](#why-maltego-)
-3. [Why Use Maltego for Malware Analysis?](#why-use-maltego-for-malware-analysis-)
+3. [Why Use Maltego ?](#Why Use Maltego-)
 4. [Setting Up Maltego](#setting-up-maltego)
-5. [Key Features of Maltego for Malware Analysis](#key-features-of-maltego-for-malware-analysis)
-6. [Practical Example: Analyzing a Malicious Domain](#practical-example-analyzing-a-malicious-domain)
+6. [Practical Example: Viviane Roberts Murder Case :](#practical-example-viviane-roberts-murder-case-)
 7. [Tips and Best Practices](#tips-and-best-practices)
 8. [Additional Resources](#additional-resources)
 
