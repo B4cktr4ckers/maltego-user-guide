@@ -124,7 +124,7 @@ Now we know that Charles has been blackmailled by Scott <br>
 Scott know something about Charles and Vivian, <br>
 We can now investigate more on Scott, and the relation between Charles and Vivian <br>
 
-### The end
+### 🔚The end🔚
 <img src="recources/MurderCase/key.png" width="400"> <br>
 After a long investigation, we can now see that Charles <br>
 was the one who killed Vivian, there is loot of proof <br>
