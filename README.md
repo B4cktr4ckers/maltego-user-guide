@@ -1,4 +1,4 @@
-# Maltego for Malware Analysis: Beginner's Guide
+# 📖💻 Maltego : Beginner's Guide 💻📖
 Want to know how maltego works to help you with your next assignment? <br>
 You don't know the software? <br>
 Did you get lost on github? <br>
@@ -20,12 +20,12 @@ This guide is made for you <br>
 ## Introduction
 Maltego is a powerful open-source intelligence (OSINT) and data visualization tool (It's a bit like a mental map that we do at school, but for OSINT). <br>
 It helps cybersecurity professionals connect the dots by visualizing relationships between data points, such as IPs, domains, files, and even malware samples. <br>
-Like mental maps, this system allows you to have a quick visual of all the data available. <br>
-This guide provides a step-by-step approach to using Maltego for malware analysis, from basic setup to performing an investigation. <br>
+Like mental maps 🧠, this system allows you to have a quick visual of all the data available. <br>
+This guide provides a step-by-step approach to how using Maltego and why it's a good software for malware analysis. <br>
 
 ---
 
-## Why Maltego ?
+## Why Maltego ❓
 To complete what was said above, and to summarize and give concrete examples. <br>
 Maltego is the equivalent of the cork board with all the evidence from the old detective series <br>
 (The famous cork board with red threads connecting all the evidence together) <br>
@@ -48,7 +48,7 @@ Maltego is also used by police force worldwide : <br>
 - Cyber Police 🇺🇦 <br>
 - Federal Bureau of Investigations 🇺🇸 <br>
 
-## Why Use Maltego for Malware Analysis?
+## Why Use Maltego for Malware Analysis ❓
 Maltego’s graph-based interface makes it ideal for:
 - **Investigating malware infrastructure** (domains, IP addresses, email addresses).
 - **Mapping relationships** between malware indicators (IOCs).
@@ -72,6 +72,11 @@ Exemple of a map for a murder case 🗡️.
 1. Launch Maltego and sign up for a free license (community edition, the only one you can use at least u wana pay 8k).
 2. Log in to the Maltego client (just follow the instructions).
 3. You are ready to go !
+
+> [!TIP]
+> If one day maltego refuses to log you and assign you a license <br>
+> delete your account files (MaltegoID.activation and MaltegoID.keypair) <br>
+> on ~/.maltego/ <br>
    
 ---
 
@@ -108,14 +113,6 @@ Exemple of a map for a murder case 🗡️.
 
 > [!WARNING]
 > Of course, don't use these techniques for bad intentioned purposes. <br>
-
-> [!NOTE]
-> If you are lost I will summarize it all a little more simply. <br>
-> Maltego generates a cork board for you <br>
-> You will be able to put post it notes of different types (people, building, computer, etc.) <br>
-> You can write details inside this note <br>
-> And then by putting several together you can connect them with a red woolen thread (like in old detective films) <br>
-> It is then up to you, using your evidence, to make your comparisons and deductions. <br>
 
 ---
 
