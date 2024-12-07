@@ -85,7 +85,7 @@ Exemple of a map for a murder case 🗡️.
 ---
 
 ## Practical Example: Viviane Roberts Murder Case :
-Vivian Roberts was murdered in 1995, her body discovered outside her mansion. <br>
+Vivian Roberts was murdered in 2019, her body discovered outside her mansion. <br>
 The case was closed after her death was attributed to an unsolved burglary, but rumors suggest otherwise. <br>
 
 ### First, put all family members on the board
@@ -97,6 +97,43 @@ We can do the same thing for all the cards. Let's also name the main protagonist
 <img src="recources/MurderCase/step_one.png" width="300"> <br>
 By clicking several times, you can add notes inside the card. <br>
 <img src="recources/MurderCase/taking notes.png" width="300"> <br>
+
+### Now, lets find some links !
+If you click on a map and keep your left click pressed you can see that you are drawing an arrow, <br>
+useful for showing connections between people. You can also edit their names there <br>
+<img src="recources/MurderCase/edit_names.png" width="300"> <br>
+and see the result <br>
+<img src="recources/MurderCase/got_link.png" width="400"> <br>
+
+### Now, lets find some new clues !
+By searching the internet, we can see that the husband owns 2 businesses, let's put them on the graph! <br>
+<img src="recources/MurderCase/Compagny.png" width="400"> <br>
+Let's call Dectective Maellie, and Mathis <br> ! <br>
+They find new evidence in this case ! <br>
+<img src="recources/MurderCase/btc.png" width="400"> <br>
+Now we know (and we can see) that the companies are on the same bank account, <br>
+And that Charles has a BTC wallet. We also know a $ ==> BTC transfer was made <br>
+from the company accounts to Charles' personal wallet <br>
+
+### What next ?
+We can now see that Charles is suspicious. <br>
+Our team can now investigate more on Charles, and the companies. <br>
+<img src="recources/MurderCase/bt2.png" width="400"> <br>
+Now we know that Charles has been blackmailled by Scott <br>
+<img src="recources/MurderCase/notes2.png" width="400"> <br>
+Scott know something about Charles and Vivian, <br>
+We can now investigate more on Scott, and the relation between Charles and Vivian <br>
+
+### The end
+<img src="recources/MurderCase/key.png" width="400"> <br>
+After a long investigation, we can now see that Charles <br>
+was the one who killed Vivian, there is loot of proof <br>
+that we can see on the map. (the color lines can help to see links) <br>
+Now you can give the board to everyone, and they can see and understand the case <br>
+
+### Conclusion
+This is a simple example of how Maltego can be used to visualize and analyze complex relationships between entities. <br>
+By connecting the dots and uncovering hidden connections, you can gain valuable insights and solve mysteries. <br>
 
 ---
 
@@ -110,17 +147,13 @@ By clicking several times, you can add notes inside the card. <br>
 
 ## Additional Resources
 - **Official Maltego Documentation**: [Maltego Docs](https://docs.maltego.com/)
-- **Maltego Transform Hub**: Explore transforms for various use cases. (is like add-on store of vscode)
+- **Maltego Transform Hub**: [Transform Hub](https://www.maltego.com/transform-hub/)
 - **VirusTotal API**: [VirusTotal](https://www.virustotal.com/)
 - **Shodan API**: [Shodan](https://www.shodan.io/)
 - **AbuseIPDB**: [AbuseIPDB](https://www.abuseipdb.com/)
 - **OSINT: Maltego Beginner Get Started Tutorial**: [Maltego4Begginers](https://www.youtube.com/watch?v=kmOIhvsklv8)
 - **Maltego - The Automated OSINT Tool for Ethical Hackers**: [Auto4begginers](https://www.youtube.com/watch?v=a2ZvpwF3u-M)
 - **Maltego - Maltego FAQ** : [Maltego-FAQ](https://www.maltego.com/maltego-faq/)
-
-> [!TIP]
-> As you learn at Epitech. Google is your friend, this guide is not yet very complete and will probably never be the best <br>
-> So don't hesitate to ask your Google friend, he will also be happy to help you <br>
 
 ---
 
