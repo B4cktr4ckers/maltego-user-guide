@@ -2,7 +2,7 @@
 Ever wondered how to become a digital Sherlock Holmes? 🕵️‍♂️🔍 <br>
 Curious about how Maltego can be your trusty magnifying glass in the world of data? <br>
 Lost in the vast sea of GitHub repositories? 🌊 <br>
-Fear not, this guide is your treasure map to mastering Maltego! 🗺️🏴‍☠️ <br>
+This guide is your treasure map to mastering Maltego! 🗺️🏴‍☠️ <br>
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -19,7 +19,7 @@ Fear not, this guide is your treasure map to mastering Maltego! 🗺️🏴‍�
 
 ## Introduction
 Maltego is a powerful open-source intelligence (OSINT) and data visualization tool. Think of it as a digital version of the mental maps we used to create in school, but for OSINT. 🧠 <br>
-It helps cybersecurity professionals, police agent and so on to visualizing relationships between data points, such as IPs, domains, files, and even malware samples. <br>
+It helps cybersecurity professionals, police agent 👮 and so on to visualizing relationships between data points, such as IPs, domains, files, and even malware samples. <br>
 This tinny system provides a quick visual overview of all available data, making it easier to identify patterns and connections. <br>
 This guide offers a step-by-step approach to using Maltego and explains why it's an excellent tool for malware analysis. <br>
 
@@ -29,21 +29,21 @@ This guide offers a step-by-step approach to using Maltego and explains why it's
 To complete what was said above, and to summarize and give concrete examples. <br>
 Maltego is the equivalent of the cork board with all the evidence from the old detective series <br>
 (The famous cork board with red threads connecting all the evidence together) <br>
-It is a visual way of collecting clues about a specific situation.
+It is a visual way of collecting 💡clues💡 about a specific situation.
 <br>
 Some usage of Maltego is :
-- Tracking Criminals: View connections between email addresses, phones, and online profiles to identify suspects or organized groups.
-- Fraud analysis: Examine financial transfers, fake accounts or fictitious organizations.
-- Cyberattack tracking: Identify where an attack is coming from by connecting digital clues (like IP addresses and servers).
-- Investigative Research: Collect and organize information for investigative reporting (e.g. Pandora Papers).
-- Finding information about individuals: Find email addresses, social media profiles, phone numbers, or associations with organizations. <br>
+- Tracking Criminals 🦹 : View connections between email addresses, phones, and online profiles to identify suspects or organized groups.
+- Fraud analysis 💸💸: Examine financial transfers, fake accounts or fictitious organizations.
+- Cyberattack tracking 🖥️: Identify where an attack is coming from by connecting digital clues (like IP addresses and servers).
+- Investigative Research 🔬: Collect and organize information for investigative reporting (e.g. Pandora Papers).
+- Finding information about individuals 👨: Find email addresses, social media profiles, phone numbers, or associations with organizations. <br>
 
 Some famous exemples :
 - During investigations into malicious infrastructure linked to attacks like Emotet, Maltego has been used to map associated domains, servers and IP addresses, allowing the location of command and control (C&C) servers.
 - Maltego has been included in investigations by Interpol and other agencies to detect terrorist organizations' financing networks or their online communications.
 - Journalists investigating the misuse of Pegasus spyware (by governments to target journalists, activists, and politicians) used Maltego to visualize and understand the connections between targeted phone numbers and the organizations involved.
 <br>
-Maltego is also used by police force worldwide : <br>
+Maltego is also used by police force worldwide 👮 : <br>
 - Interpol 🌍 <br>
 - Cyber Police 🇺🇦 <br>
 - Federal Bureau of Investigations 🇺🇸 <br>
